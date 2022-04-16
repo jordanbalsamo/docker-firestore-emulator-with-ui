@@ -21,7 +21,7 @@ Note: the rest of the commands in this README will assume you've built the image
 
 Run the container with firestore default ports
 
-```~$ docker run -p 8080:8080 -p 4000:4000 jordanbalsamo/firestore-emulator-ui`
+```~$ docker run -p 8080:8080 -p 4000:4000 jordanbalsamo/firestore-emulator-ui```
 
 
 Run the container with custom ports
